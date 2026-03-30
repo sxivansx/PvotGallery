@@ -4,34 +4,14 @@
      SPDX-License-Identifier: Apache-2.0
 -->
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:aapt="http://schemas.android.com/aapt"
     android:width="108dp"
     android:height="108dp"
-    android:viewportWidth="108"
-    android:viewportHeight="108">
-    <group>
-        <clip-path android:pathData="M0,0h108v108h-108z" />
-        <path
-            android:fillColor="#ffffff"
-            android:fillType="evenOdd"
-            android:pathData="M108,0H0V108H108V0ZM34,38C31.791,38 30,39.791 30,42V66C30,68.209 31.791,70 34,70H74C76.209,70 78,68.209 78,66V42C78,39.791 76.209,38 74,38H34Z" />
-        <path
-            android:fillAlpha="0.6"
-            android:pathData="M28.54,28.54m-72,0a72,72 0,1 1,144 0a72,72 0,1 1,-144 0">
-            <aapt:attr name="android:fillColor">
-                <gradient
-                    android:centerX="28.54"
-                    android:centerY="28.54"
-                    android:gradientRadius="72"
-                    android:type="radial">
-                    <item
-                        android:color="#19FFFFFF"
-                        android:offset="0" />
-                    <item
-                        android:color="#00FFFFFF"
-                        android:offset="1" />
-                </gradient>
-            </aapt:attr>
-        </path>
-    </group>
+    android:viewportWidth="278"
+    android:viewportHeight="278">
+    <path
+        android:fillColor="#6B5CEE"
+        android:pathData="M88.5874 124.636L64.469 179.359C62.8561 183.018 62.3137 187.06 62.9049 191.016L63.4425 194.613C64.0326 198.562 66.0031 202.173 69.0039 204.807C72.0838 207.51 76.0416 209 80.1392 209H196.307C200.079 209 203.777 207.954 206.991 205.979L207.588 205.612C212.836 202.386 216.199 196.82 216.614 190.673C216.866 186.947 216.016 183.23 214.171 179.983L190.236 137.86C188.066 134.041 184.698 131.044 180.652 129.332C175.303 127.069 169.234 127.246 164.026 129.816L162.612 130.514C159.639 131.982 157.052 134.128 155.061 136.78L147.107 147.372C146.923 147.616 146.718 147.843 146.493 148.049L145.745 148.735C144.283 150.075 142.042 150.082 140.571 148.752C140.21 148.424 139.913 148.031 139.699 147.592L128.304 124.317C126.068 119.751 122.263 116.143 117.584 114.153L116.367 113.635C110.92 111.318 104.672 111.426 99.2803 113.87C94.5383 116.018 90.687 119.872 88.5874 124.636Z" />
+    <path
+        android:fillColor="#6B5CEE"
+        android:pathData="M180 79.0002C180 88.9413 171.717 97.0002 161.5 97.0002C151.283 97.0002 143 88.9413 143 79.0002C143 69.0591 151.283 61.0002 161.5 61.0002C171.717 61.0002 180 69.0591 180 79.0002Z" />
 </vector>
